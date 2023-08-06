@@ -15,4 +15,4 @@ const DesktopView = ({ setIsDesktop = () => {}}) => {
     );
 }
 
-export default DesktopView
+export default DesktopView`
